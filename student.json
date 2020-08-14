@@ -2,14 +2,10 @@
   {
     "id": 1,
     "name": "Kimsay",
-    "phones": [{
+    "phone": {
         "smart": "070787973",
         "cellcard": "09989877"
     },
-    {
-        "smart": "070787973",
-        "cellcard": "09989877"
-    }],
     "status": true
   }
 
