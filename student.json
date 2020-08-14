@@ -2,36 +2,16 @@
   {
     "id": 1,
     "name": "Kimsay",
-    "phone": [
-      {
+    "phone": {
         "smart": "070787973",
         "cellcard": "09989877"
-    ],
-    "status": true
-  },
-      {
-    "id": 2,
-    "name": "Kimsay",
-    "phone": [
-      {
-        "smart": "070787973",
-        "cellcard": "09989877"
-    ],
-    "status": true
-  },
-      {
-    "id": 3,
-    "name": "Kimsay",
-    "phone": [
-      {
-        "smart": "070787973",
-        "cellcard": "09989877"
-    ],
-    "status": true
+    },
+    "status": true,
+    "friends": [
+        {
+          
+        }
+      ]
   }
-    
-    
-
-
 
 ]
